@@ -7,8 +7,8 @@
     "server": "nodemon ./src/index.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Leonardo F.R. Santos",
+  "license": "MIT",
   "dependencies": {
     "@prisma/client": "^5.8.0",
     "@types/bcrypt": "^5.0.2",
